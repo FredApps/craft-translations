@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "locale": "es",
+  "messages": [
+    {
+      "id": "shared.action.save",
+      "source": "Save",
+      "description": "Save current document changes; not Save As.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Guardar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.undo",
+      "source": "Undo",
+      "description": "Undo last undoable edit.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Deshacer",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.redo",
+      "source": "Redo",
+      "description": "Redo previously undone edit.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Rehacer",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.copy",
+      "source": "Copy",
+      "description": "Copy selected content to clipboard; selected objects differ by app.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Copiar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.cut",
+      "source": "Cut",
+      "description": "Cut selected content for clipboard transfer; not crop, trim, or split.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Cortar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.cancel",
+      "source": "Cancel",
+      "description": "Cancel pending dialog operation, not undo already committed changes.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Cancelar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.close",
+      "source": "Close",
+      "description": "Dismiss current dialog/view; do not imply cancel or discard.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Cerrar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.apply",
+      "source": "Apply",
+      "description": "Commit selected settings/value; does NOT promise the dialog stays open.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Aplicar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.print",
+      "source": "Print",
+      "description": "Start printing configured document/pages, not merely open print setup.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Imprimir",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.confirm",
+      "source": "OK",
+      "description": "Confirm/apply dialog values and close; source label stays OK, not Accept.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Aceptar",
+          "provenance": "imported"
+        }
+      ]
+    },
+    {
+      "id": "shared.action.browse_files",
+      "source": "Browse…",
+      "description": "Open file chooser; preserve trailing Unicode ellipsis.",
+      "translations": [
+        {
+          "scope": "shared",
+          "text": "Examinar…",
+          "provenance": "imported"
+        }
+      ]
+    }
+  ]
+}
